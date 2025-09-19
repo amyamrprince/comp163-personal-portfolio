@@ -8,7 +8,7 @@ major = "Computer Science"
 
 #academic data organizaton 
 current_course = ["COMP 163", "MATH 103", "SPCH 250", "HIS 106","FRST101"]
-completed_courses = ["Biology", "Chemisrty", "Calculus", "Spanish II", "World History"]
+completed_courses = ["Biology", "Chemisrty", "Pre-Calculus", "French II", "World History"]
 credit_hours = [3,3,3,3,1]
 gpa_history = [3.2, 3.6,3.4,3.7]
 
@@ -87,4 +87,5 @@ print(f" Entertainment Backlog: {len(entertainment_backlog)} items")
 print(f"Current Hobbies: {len(hobbies)} activities")
 
 print("================================================================")
+
 
