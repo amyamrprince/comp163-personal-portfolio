@@ -1,9 +1,9 @@
 #personal information  
 
-full_name = "Jordan Smith"
-student_email = "jsmith@ncat.edu"
-hometown = "Charlotte, NC"
-grad_semester = "Spring 2028"
+full_name = "Amya Prince"
+student_email = "amratcliffprince@ncat.edu"
+hometown = "Waldorf, MD"
+grad_semester = "Spring 2029"
 major = "Computer Science"
 
 #academic data organizaton 
@@ -87,3 +87,4 @@ print(f" Entertainment Backlog: {len(entertainment_backlog)} items")
 print(f"Current Hobbies: {len(hobbies)} activities")
 
 print("================================================================")
+
