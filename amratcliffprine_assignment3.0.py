@@ -19,11 +19,11 @@ instagram_info = ("Instagram", "@uhhmyaa", "NC", "20603")
 twitter_info = ("Birthday", 4, 27, 2007)
 
 #intrest tracking
-current_skills = {"Python basics", "HTML", "Problem solving", "Time management", "Photography"}
+current_skills = {"Python basics", "HTML", "Problem solving", "Time management", "Writing"}
 skills_to_learn ={"JavaScript","Data structures", "Git", "Web design","Public speaking"}
-career_intrests = {"Software development", "Web development", "Data science", "Game development"}
+career_intrests = {"Software development", "Web development", "Data science", "cybersecurity"}
 hobbies = {"Gaming", "Photography", "Reading", "Soccer", "Music"}
-entertainment_backlog = {"One Piece", "Barry", "Life","Incantation", "Memento" }
+entertainment_backlog = {"netflix", "hbo max", "tiktok","youtube", "instagram" }
 
 #organizational mapping
 course_credits = {"COMP 163": 3, "MATH 150": 3,"ENG 101": 3, "HIS 105": 3}
@@ -87,6 +87,7 @@ print(f" Entertainment Backlog: {len(entertainment_backlog)} items")
 print(f"Current Hobbies: {len(hobbies)} activities")
 
 print("================================================================")
+
 
 
 
