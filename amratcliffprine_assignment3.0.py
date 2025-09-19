@@ -13,10 +13,10 @@ credit_hours = [3,3,3,3,1]
 gpa_history = [3.2, 3.6,3.4,3.7]
 
 #contact information storage 
-emergency_contact = ("(Mom)","Hannah Smith", "704-555-0199")
-home_address = ("456 Oak Street", "Charlotte", "NC", "28202")
-instagram_info = ("Instagram", "@jordan_codes", "NC", "28202")
-twitter_info = ("Birthday", 5, 22, 2006)
+emergency_contact = ("(Mom)","Tiffany Prince", "704-555-0199")
+home_address = ("456 Oak Street", "Waldorf", "MD", "20603")
+instagram_info = ("Instagram", "@uhhmyaa", "NC", "20603")
+twitter_info = ("Birthday", 4, 27, 2007)
 
 #intrest tracking
 current_skills = {"Python basics", "HTML", "Problem solving", "Time management", "Photography"}
@@ -87,5 +87,6 @@ print(f" Entertainment Backlog: {len(entertainment_backlog)} items")
 print(f"Current Hobbies: {len(hobbies)} activities")
 
 print("================================================================")
+
 
 
